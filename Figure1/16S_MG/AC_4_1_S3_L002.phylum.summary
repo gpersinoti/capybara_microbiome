@@ -1,0 +1,10 @@
+file	percent	reads	taxon_id	taxon_name
+kaijuMG/AC_4_1_S3_L002.out	17.807064	7823	1239	Firmicutes
+kaijuMG/AC_4_1_S3_L002.out	11.520077	5061	1224	Proteobacteria
+kaijuMG/AC_4_1_S3_L002.out	11.060275	4859	976	Bacteroidetes
+kaijuMG/AC_4_1_S3_L002.out	7.179277	3154	32066	Fusobacteria
+kaijuMG/AC_4_1_S3_L002.out	4.962214	2180	201174	Actinobacteria
+kaijuMG/AC_4_1_S3_L002.out	0.000000	0	10239	Viruses
+kaijuMG/AC_4_1_S3_L002.out	20.149323	8852	NA	cannot be assigned to a (non-viral) phylum
+kaijuMG/AC_4_1_S3_L002.out	2.943185	1293	NA	belong to a (non-viral) phylum having less than 1000 reads
+kaijuMG/AC_4_1_S3_L002.out	24.378586	10710	NA	unclassified

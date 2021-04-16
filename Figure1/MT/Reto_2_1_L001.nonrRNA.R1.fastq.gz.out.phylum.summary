@@ -1,0 +1,147 @@
+file	percent	reads	taxon_id	taxon_name
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	15.422879	2749924	1239	Firmicutes
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	14.742049	2628531	976	Bacteroidetes
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	4.280231	763172	65842	Fibrobacteres
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	3.056035	544896	203691	Spirochaetes
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	2.585154	460937	1224	Proteobacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	1.547283	275883	32066	Fusobacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.867480	154673	201174	Actinobacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.820239	146250	28890	Euryarchaeota
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.285331	50875	5878	Ciliophora
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.217536	38787	4890	Ascomycota
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.125361	22352	508458	Synergistetes
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.117492	20949	204428	Chlamydiae
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.117408	20934	544448	Tenericutes
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.111463	19874	200795	Chloroflexi
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.100358	17894	203682	Planctomycetes
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.098917	17637	5204	Basidiomycota
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.084363	15042	1117	Cyanobacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.082764	14757	74201	Verrucomicrobia
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.073768	13153	4761	Chytridiomycota
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.070403	12553	57723	Acidobacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.039001	6954	1134404	Ignavibacteriae
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.036006	6420	3041	Chlorophyta
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.034240	6105	256845	Lentisphaerae
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.034032	6068	40117	Nitrospirae
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.030123	5371	200918	Thermotogae
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.029792	5312	5794	Apicomplexa
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.021413	3818	1913637	Mucoromycota
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.020886	3724	456828	Candidatus Cloacimonetes
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.018873	3365	1090	Chlorobi
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.017723	3160	67812	Candidatus Omnitrophica
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.016433	2930	142182	Gemmatimonadetes
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.015945	2843	74152	Elusimicrobia
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.012967	2312	2836	Bacillariophyta
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.012737	2271	1297	Deinococcus-Thermus
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.012518	2232	1752708	Candidatus Rokubacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.012473	2224	1379697	candidate division Zixibacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.012445	2219	1913638	Zoopagomycota
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.012417	2214	2763	Rhodophyta
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.012069	2152	1936987	Balneolaeota
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.012013	2142	62680	Candidatus Marinimicrobia
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.011099	1979	1930617	Calditrichaeota
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.011009	1963	1798710	Candidatus Melainabacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.010112	1803	200783	Aquificae
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.009304	1659	67819	Armatimonadetes
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.007330	1307	28889	Crenarchaeota
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.006781	1209	200930	Deferribacteres
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.006287	1121	67817	Candidatus Aminicenantes
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.006281	1120	1619053	Candidatus Peregrinibacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.006209	1107	928852	Candidatus Bathyarchaeota
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.004969	886	67818	Candidatus Atribacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.004958	884	221216	Candidatus Parcubacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.004812	858	6029	Microsporidia
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.004773	851	95818	Candidatus Saccharibacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.004773	851	136419	Cercozoa
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.004419	788	134625	Kiritimatiellaeota
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.004352	776	1655434	Candidatus Lokiarchaeota
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.003814	680	3027	Cryptophyta
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.003808	679	1801616	Candidatus Woesearchaeota
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.003679	656	1293497	Nitrospinae
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.003668	654	200940	Thermodesulfobacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.003657	652	651137	Thaumarchaeota
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.003432	612	1817808	Candidatus Margulisbacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.003275	584	1853220	Rhodothermaeota
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.003197	570	1752731	Candidatus Magasanikbacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.003191	569	1752737	Candidatus Moranbacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.003180	567	1817920	Candidatus Terrybacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.003113	555	451459	Blastocladiomycota
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.002989	533	2497438	Perkinsozoa
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.002866	511	1752732	Candidatus Uhrbacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.002838	506	1855361	Candidatus Kryptonia
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.002832	505	67810	Candidatus Bipolaricaulota
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.002776	495	1819803	Candidatus Desantisbacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.002765	493	1817801	Candidatus Eisenbacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.002743	489	265317	Candidatus Poribacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.002731	487	74015	Candidatus Latescibacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.002619	467	1052815	Candidatus Aerophobetes
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.002614	466	1817911	Candidatus Nealsonbacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.002608	465	1817810	Candidatus Riflebacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.002552	455	2582935	Candidatus Altiarchaeota
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.002524	450	1031332	Cryptomycota
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.002507	447	1752716	Candidatus Dadabacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.002468	440	68297	Dictyoglomi
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.002440	435	1752728	Candidatus Falkowbacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.002412	430	1752723	Candidatus Roizmanbacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.002322	414	877183	Chromerida
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.002277	406	1752722	Candidatus Woesebacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.002266	404	2498705	Candidatus Cryosericota
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.002221	396	1817798	Candidatus Delongbacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.002199	392	1618330	Candidatus Berkelbacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.002036	363	1802339	Candidatus Tectomicrobia
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.002013	359	1662329	Candidatus Kapabacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.001918	342	1936271	Candidatus Odinarchaeota
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.001907	340	640293	candidate division NC10
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.001884	336	200938	Chrysiogenetes
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.001823	325	422282	candidate division WWE3
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.001755	313	1752720	Candidatus Gottesmanbacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.001733	309	1817812	Candidatus Wallbacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.001716	306	142187	Candidatus Hydrogenedentes
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.001711	305	1752721	Candidatus Shapirobacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.001683	300	1729712	Candidatus Fermentibacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.001666	297	1752734	Candidatus Kaiserbacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.001666	297	1817903	Candidatus Buchananbacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.001655	295	1817811	Candidatus Schekmanbacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.001610	287	743724	Candidatus Aenigmarchaeota
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.001593	284	1706441	Candidatus Thorarchaeota
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.001565	279	1703755	candidate division WOR-3
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.001554	277	1817800	Candidatus Edwardsbacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.001453	259	363464	Candidatus Gracilibacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.001441	257	200295	Candidatus Sumerlaeota
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.001441	257	1752729	Candidatus Nomurabacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.001374	245	1752733	Candidatus Yanofskybacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.001363	243	1752719	Candidatus Levybacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.001363	243	1817919	Candidatus Taylorbacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.001335	238	2093358	Candidatus Abyssubacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.001307	233	51967	Candidatus Korarchaeota
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.001301	232	67814	Caldiserica
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.001296	231	1936272	Candidatus Heimdallarchaeota
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.001133	202	1817907	Candidatus Kerfeldbacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.001127	201	1752724	Candidatus Pacebacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.001099	196	1817797	Candidatus Coatesbacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.001094	195	1817802	Candidatus Firestonebacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.001066	190	1130266	Candidatus Hydrothermae
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.001066	190	1817799	Candidatus Doudnabacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.000942	168	2138240	Coprothermobacterota
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.000897	160	67820	Candidatus Microgenomates
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.000881	157	1817917	Candidatus Sungbacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.000852	152	1752726	Candidatus Beckwithbacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.000830	148	1817916	Candidatus Staskawiczbacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.000819	146	1801631	Candidatus Micrarchaeota
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.000819	146	1817905	Candidatus Harrisonbacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.000808	144	1817809	Candidatus Raymondbacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.000746	133	1752735	Candidatus Wolfebacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.000746	133	1817805	Candidatus Glassbacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.000684	122	1154676	candidate division WPS-2
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.000679	121	2052312	candidate division AD3
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.000645	115	1817913	Candidatus Portnoybacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.000639	114	2013583	Candidatus Goldbacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.000634	113	1492816	Colponemidia
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.000606	108	2576005	candidate division LCP-89
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.000594	106	1752718	Candidatus Daviesbacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.000594	106	1817922	Candidatus Vogelbacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.000566	101	1817908	Candidatus Komeilibacteria
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.075529	13467	10239	Viruses
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	5.240564	934401	NA	cannot be assigned to a (non-viral) phylum
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	0.013275	2367	NA	belong to a (non-viral) phylum having less than 100 reads
+Reto_2_1_L001.nonrRNA.R1.fastq.gz.out	49.182227	8769270	NA	unclassified

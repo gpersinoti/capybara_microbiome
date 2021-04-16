@@ -1,0 +1,147 @@
+file	percent	reads	taxon_id	taxon_name
+AC_2_1_S1_L001.out	21.343672	3186021	976	Bacteroidetes
+AC_2_1_S1_L001.out	12.006735	1792274	1239	Firmicutes
+AC_2_1_S1_L001.out	7.532009	1124321	32066	Fusobacteria
+AC_2_1_S1_L001.out	7.143605	1066343	1224	Proteobacteria
+AC_2_1_S1_L001.out	1.076301	160662	201174	Actinobacteria
+AC_2_1_S1_L001.out	0.801977	119713	203691	Spirochaetes
+AC_2_1_S1_L001.out	0.790970	118070	65842	Fibrobacteres
+AC_2_1_S1_L001.out	0.401287	59901	28890	Euryarchaeota
+AC_2_1_S1_L001.out	0.237874	35508	544448	Tenericutes
+AC_2_1_S1_L001.out	0.136871	20431	4890	Ascomycota
+AC_2_1_S1_L001.out	0.121844	18188	200795	Chloroflexi
+AC_2_1_S1_L001.out	0.108560	16205	203682	Planctomycetes
+AC_2_1_S1_L001.out	0.096461	14399	1117	Cyanobacteria
+AC_2_1_S1_L001.out	0.091028	13588	57723	Acidobacteria
+AC_2_1_S1_L001.out	0.088978	13282	74201	Verrucomicrobia
+AC_2_1_S1_L001.out	0.077355	11547	5878	Ciliophora
+AC_2_1_S1_L001.out	0.066027	9856	5204	Basidiomycota
+AC_2_1_S1_L001.out	0.060701	9061	508458	Synergistetes
+AC_2_1_S1_L001.out	0.046365	6921	1134404	Ignavibacteriae
+AC_2_1_S1_L001.out	0.038380	5729	204428	Chlamydiae
+AC_2_1_S1_L001.out	0.031298	4672	95818	Candidatus Saccharibacteria
+AC_2_1_S1_L001.out	0.029778	4445	4761	Chytridiomycota
+AC_2_1_S1_L001.out	0.029537	4409	40117	Nitrospirae
+AC_2_1_S1_L001.out	0.027219	4063	200918	Thermotogae
+AC_2_1_S1_L001.out	0.025263	3771	1090	Chlorobi
+AC_2_1_S1_L001.out	0.024392	3641	5794	Apicomplexa
+AC_2_1_S1_L001.out	0.021263	3174	256845	Lentisphaerae
+AC_2_1_S1_L001.out	0.021089	3148	3041	Chlorophyta
+AC_2_1_S1_L001.out	0.021069	3145	74152	Elusimicrobia
+AC_2_1_S1_L001.out	0.019883	2968	67812	Candidatus Omnitrophica
+AC_2_1_S1_L001.out	0.019106	2852	1913637	Mucoromycota
+AC_2_1_S1_L001.out	0.017143	2559	142182	Gemmatimonadetes
+AC_2_1_S1_L001.out	0.015589	2327	1297	Deinococcus-Thermus
+AC_2_1_S1_L001.out	0.014450	2157	456828	Candidatus Cloacimonetes
+AC_2_1_S1_L001.out	0.013747	2052	1930617	Calditrichaeota
+AC_2_1_S1_L001.out	0.013552	2023	1936987	Balneolaeota
+AC_2_1_S1_L001.out	0.013157	1964	62680	Candidatus Marinimicrobia
+AC_2_1_S1_L001.out	0.013057	1949	1798710	Candidatus Melainabacteria
+AC_2_1_S1_L001.out	0.012682	1893	200783	Aquificae
+AC_2_1_S1_L001.out	0.010551	1575	67819	Armatimonadetes
+AC_2_1_S1_L001.out	0.010129	1512	1379697	candidate division Zixibacteria
+AC_2_1_S1_L001.out	0.009071	1354	1752708	Candidatus Rokubacteria
+AC_2_1_S1_L001.out	0.008923	1332	28889	Crenarchaeota
+AC_2_1_S1_L001.out	0.008046	1201	67817	Candidatus Aminicenantes
+AC_2_1_S1_L001.out	0.007838	1170	1619053	Candidatus Peregrinibacteria
+AC_2_1_S1_L001.out	0.007597	1134	2763	Rhodophyta
+AC_2_1_S1_L001.out	0.007302	1090	2836	Bacillariophyta
+AC_2_1_S1_L001.out	0.007021	1048	928852	Candidatus Bathyarchaeota
+AC_2_1_S1_L001.out	0.006954	1038	1913638	Zoopagomycota
+AC_2_1_S1_L001.out	0.006284	938	200930	Deferribacteres
+AC_2_1_S1_L001.out	0.005728	855	1853220	Rhodothermaeota
+AC_2_1_S1_L001.out	0.005460	815	1293497	Nitrospinae
+AC_2_1_S1_L001.out	0.005292	790	200940	Thermodesulfobacteria
+AC_2_1_S1_L001.out	0.004910	733	221216	Candidatus Parcubacteria
+AC_2_1_S1_L001.out	0.004884	729	134625	Kiritimatiellaeota
+AC_2_1_S1_L001.out	0.004710	703	1752728	Candidatus Falkowbacteria
+AC_2_1_S1_L001.out	0.004689	700	1817808	Candidatus Margulisbacteria
+AC_2_1_S1_L001.out	0.004629	691	1752731	Candidatus Magasanikbacteria
+AC_2_1_S1_L001.out	0.004448	664	6029	Microsporidia
+AC_2_1_S1_L001.out	0.004368	652	74015	Candidatus Latescibacteria
+AC_2_1_S1_L001.out	0.004261	636	651137	Thaumarchaeota
+AC_2_1_S1_L001.out	0.004147	619	1752737	Candidatus Moranbacteria
+AC_2_1_S1_L001.out	0.004053	605	1752732	Candidatus Uhrbacteria
+AC_2_1_S1_L001.out	0.003859	576	67818	Candidatus Atribacteria
+AC_2_1_S1_L001.out	0.003859	576	1752723	Candidatus Roizmanbacteria
+AC_2_1_S1_L001.out	0.003678	549	265317	Candidatus Poribacteria
+AC_2_1_S1_L001.out	0.003604	538	877183	Chromerida
+AC_2_1_S1_L001.out	0.003597	537	1655434	Candidatus Lokiarchaeota
+AC_2_1_S1_L001.out	0.003571	533	1801616	Candidatus Woesearchaeota
+AC_2_1_S1_L001.out	0.003256	486	1817801	Candidatus Eisenbacteria
+AC_2_1_S1_L001.out	0.003256	486	2582935	Candidatus Altiarchaeota
+AC_2_1_S1_L001.out	0.003242	484	1752716	Candidatus Dadabacteria
+AC_2_1_S1_L001.out	0.003209	479	3027	Cryptophyta
+AC_2_1_S1_L001.out	0.003135	468	1752734	Candidatus Kaiserbacteria
+AC_2_1_S1_L001.out	0.003068	458	1817919	Candidatus Taylorbacteria
+AC_2_1_S1_L001.out	0.003062	457	1752722	Candidatus Woesebacteria
+AC_2_1_S1_L001.out	0.003048	455	422282	candidate division WWE3
+AC_2_1_S1_L001.out	0.003028	452	200938	Chrysiogenetes
+AC_2_1_S1_L001.out	0.003015	450	1752720	Candidatus Gottesmanbacteria
+AC_2_1_S1_L001.out	0.002981	445	1052815	Candidatus Aerophobetes
+AC_2_1_S1_L001.out	0.002928	437	1752729	Candidatus Nomurabacteria
+AC_2_1_S1_L001.out	0.002854	426	1817810	Candidatus Riflebacteria
+AC_2_1_S1_L001.out	0.002720	406	1706441	Candidatus Thorarchaeota
+AC_2_1_S1_L001.out	0.002660	397	1703755	candidate division WOR-3
+AC_2_1_S1_L001.out	0.002532	378	363464	Candidatus Gracilibacteria
+AC_2_1_S1_L001.out	0.002398	358	142187	Candidatus Hydrogenedentes
+AC_2_1_S1_L001.out	0.002392	357	1817913	Candidatus Portnoybacteria
+AC_2_1_S1_L001.out	0.002378	355	1662329	Candidatus Kapabacteria
+AC_2_1_S1_L001.out	0.002311	345	1817911	Candidatus Nealsonbacteria
+AC_2_1_S1_L001.out	0.002204	329	1618330	Candidatus Berkelbacteria
+AC_2_1_S1_L001.out	0.002171	324	2497438	Perkinsozoa
+AC_2_1_S1_L001.out	0.002164	323	67814	Caldiserica
+AC_2_1_S1_L001.out	0.002164	323	451459	Blastocladiomycota
+AC_2_1_S1_L001.out	0.002063	308	1817811	Candidatus Schekmanbacteria
+AC_2_1_S1_L001.out	0.002010	300	1802339	Candidatus Tectomicrobia
+AC_2_1_S1_L001.out	0.001949	291	68297	Dictyoglomi
+AC_2_1_S1_L001.out	0.001943	290	67810	Candidatus Bipolaricaulota
+AC_2_1_S1_L001.out	0.001936	289	2093358	Candidatus Abyssubacteria
+AC_2_1_S1_L001.out	0.001882	281	1752719	Candidatus Levybacteria
+AC_2_1_S1_L001.out	0.001882	281	1819803	Candidatus Desantisbacteria
+AC_2_1_S1_L001.out	0.001876	280	640293	candidate division NC10
+AC_2_1_S1_L001.out	0.001862	278	136419	Cercozoa
+AC_2_1_S1_L001.out	0.001849	276	1729712	Candidatus Fermentibacteria
+AC_2_1_S1_L001.out	0.001836	274	2498705	Candidatus Cryosericota
+AC_2_1_S1_L001.out	0.001775	265	1752733	Candidatus Yanofskybacteria
+AC_2_1_S1_L001.out	0.001755	262	1817812	Candidatus Wallbacteria
+AC_2_1_S1_L001.out	0.001708	255	1752724	Candidatus Pacebacteria
+AC_2_1_S1_L001.out	0.001702	254	1817798	Candidatus Delongbacteria
+AC_2_1_S1_L001.out	0.001614	241	1752739	Candidatus Jorgensenbacteria
+AC_2_1_S1_L001.out	0.001601	239	1752721	Candidatus Shapirobacteria
+AC_2_1_S1_L001.out	0.001601	239	1936272	Candidatus Heimdallarchaeota
+AC_2_1_S1_L001.out	0.001574	235	1855361	Candidatus Kryptonia
+AC_2_1_S1_L001.out	0.001541	230	1801631	Candidatus Micrarchaeota
+AC_2_1_S1_L001.out	0.001400	209	1031332	Cryptomycota
+AC_2_1_S1_L001.out	0.001367	204	1817799	Candidatus Doudnabacteria
+AC_2_1_S1_L001.out	0.001340	200	1817903	Candidatus Buchananbacteria
+AC_2_1_S1_L001.out	0.001239	185	1752717	Candidatus Curtissbacteria
+AC_2_1_S1_L001.out	0.001233	184	200295	Candidatus Sumerlaeota
+AC_2_1_S1_L001.out	0.001226	183	743724	Candidatus Aenigmarchaeota
+AC_2_1_S1_L001.out	0.001213	181	1130266	Candidatus Hydrothermae
+AC_2_1_S1_L001.out	0.001213	181	1817809	Candidatus Raymondbacteria
+AC_2_1_S1_L001.out	0.001192	178	1817802	Candidatus Firestonebacteria
+AC_2_1_S1_L001.out	0.001192	178	1817907	Candidatus Kerfeldbacteria
+AC_2_1_S1_L001.out	0.001152	172	1752718	Candidatus Daviesbacteria
+AC_2_1_S1_L001.out	0.001072	160	1817800	Candidatus Edwardsbacteria
+AC_2_1_S1_L001.out	0.001045	156	1817797	Candidatus Coatesbacteria
+AC_2_1_S1_L001.out	0.001045	156	2013583	Candidatus Goldbacteria
+AC_2_1_S1_L001.out	0.001012	151	1752735	Candidatus Wolfebacteria
+AC_2_1_S1_L001.out	0.001005	150	67820	Candidatus Microgenomates
+AC_2_1_S1_L001.out	0.000971	145	1817925	Candidatus Zambryskibacteria
+AC_2_1_S1_L001.out	0.000971	145	2138240	Coprothermobacterota
+AC_2_1_S1_L001.out	0.000904	135	51967	Candidatus Korarchaeota
+AC_2_1_S1_L001.out	0.000871	130	1752738	Candidatus Giovannonibacteria
+AC_2_1_S1_L001.out	0.000871	130	1817908	Candidatus Komeilibacteria
+AC_2_1_S1_L001.out	0.000844	126	1752730	Candidatus Amesbacteria
+AC_2_1_S1_L001.out	0.000831	124	1817805	Candidatus Glassbacteria
+AC_2_1_S1_L001.out	0.000824	123	1752726	Candidatus Beckwithbacteria
+AC_2_1_S1_L001.out	0.000757	113	1154676	candidate division WPS-2
+AC_2_1_S1_L001.out	0.000750	112	1817905	Candidatus Harrisonbacteria
+AC_2_1_S1_L001.out	0.000737	110	1817916	Candidatus Staskawiczbacteria
+AC_2_1_S1_L001.out	0.000724	108	1817914	Candidatus Ryanbacteria
+AC_2_1_S1_L001.out	0.000677	101	1817917	Candidatus Sungbacteria
+AC_2_1_S1_L001.out	0.091973	13729	10239	Viruses
+AC_2_1_S1_L001.out	5.009828	747829	NA	cannot be assigned to a (non-viral) phylum
+AC_2_1_S1_L001.out	0.016125	2407	NA	belong to a (non-viral) phylum having less than 100 reads
+AC_2_1_S1_L001.out	41.926527	6258473	NA	unclassified
