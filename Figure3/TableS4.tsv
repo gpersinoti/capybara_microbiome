@@ -1,0 +1,294 @@
+mag	Phylum	Taxonomy	ID	PUL	category
+MAG40	Bacteroidota	CAG-831	PUL1	CBM48-CE1+GH20+GH33+SusC+SusD+GH29+CBM9+GH130+GH92+GH97+GH92-GH125	PUL
+MAG40	Bacteroidota	CAG-831	PUL2	SusC+SusD+GH20	PUL
+MAG40	Bacteroidota	CAG-831	PUL3	GH3+CE1+SusD+SusC	PUL
+MAG40	Bacteroidota	CAG-831	PUL4	GH63+GH92+SusD+SusC	PUL
+MAG41	Bacteroidota	UBA932	PUL5	CBM48-CE1+SusD+SusC	PUL
+MAG42	Bacteroidota	UBA932	PUL6	GH2+GH2+SusD+SusC+GH78	PUL
+MAG42	Bacteroidota	UBA932	PUL7	GH16_3+SusC+SusD	PUL
+MAG42	Bacteroidota	UBA932	PUL8	SusC+SusD+GH144	PUL
+MAG43	Bacteroidota	UBA932	PUL9	SusC+SusD+GT2	PUL
+MAG43	Bacteroidota	UBA932	PUL10	SusD+SusC+CE7	PUL
+MAG43	Bacteroidota	UBA932	PUL11	SusC+SusD+GH20	PUL
+MAG43	Bacteroidota	UBA932	PUL12	SusD+GH13+GH13+GH31	PUL
+MAG43	Bacteroidota	UBA932	PUL13	CE1+GH3+SusD+SusC+SusC+SusD	PUL
+MAG44	Bacteroidota	UBA932	PUL14	GH51+SusD+SusC	PUL
+MAG44	Bacteroidota	UBA932	PUL15	GH92+SusD+SusC	PUL
+MAG44	Bacteroidota	UBA932	PUL16	SusC+SusD+GH116	PUL
+MAG44	Bacteroidota	UBA932	PUL17	GH5_4+SusD+SusC+GH31	PUL
+MAG44	Bacteroidota	UBA932	PUL18	GH92+GH92+SusC+SusD	PUL
+MAG44	Bacteroidota	UBA932	PUL19	GH5+SusD	PUL
+MAG44	Bacteroidota	UBA932	PUL20	SusC+SusD+SusD+GH127+GH2+GH2	PUL
+MAG44	Bacteroidota	UBA932	PUL21	SusD+GH95	PUL
+MAG45	Bacteroidota	RC9	PUL22	SusD+GH28	PUL
+MAG45	Bacteroidota	RC9	PUL23	GH97+GH116+SusD+SusC	PUL
+MAG45	Bacteroidota	RC9	PUL24	GH33+SusD+SusC+GH33+GH33	PUL
+MAG45	Bacteroidota	RC9	PUL25	GH76+GH76+SusE+SusD+SusC	PUL
+MAG45	Bacteroidota	RC9	PUL26	SusC+SusD+GH105	PUL
+MAG45	Bacteroidota	RC9	PUL27	SusD+SusC+GH76	PUL
+MAG45	Bacteroidota	RC9	PUL28	SusC+SusD+GH20	PUL
+MAG45	Bacteroidota	RC9	PUL29	GH63+GH3+SusC+SusD	PUL
+MAG45	Bacteroidota	RC9	PUL30	GH77+SusC+SusD	PUL
+MAG45	Bacteroidota	RC9	PUL31	SusD+SusC+GH92	PUL
+MAG45	Bacteroidota	RC9	PUL32	GH130+SusC+SusD+GH92+GH92	PUL
+MAG45	Bacteroidota	RC9	PUL33	SusD+SusC+GH5_4+GH94	PUL
+MAG45	Bacteroidota	RC9	PUL34	GH43_10+SusD+SusC+GH88	PUL
+MAG46	Bacteroidota	UBA932	PUL35	SusC+SusD+GH164	PUL
+MAG47	Bacteroidota	Marinilabiliaceae	PUL36	CBM48-CE1+GH31+GH31+SusC+SusD+SusD+GH10-CBM4-CBM4	PUL
+MAG47	Bacteroidota	Marinilabiliaceae	PUL37	GH29+SusD+SusC+GH115+GH43_10+GH146	PUL
+MAG47	Bacteroidota	Marinilabiliaceae	PUL38	GH2+GH3+SusC+SusD	PUL
+MAG47	Bacteroidota	Marinilabiliaceae	PUL39	GH97+GH13-CBM58-GH13_36+SusE+SusD+SusC+GH13+GH65+GH31+GH8	PUL
+MAG47	Bacteroidota	Marinilabiliaceae	PUL40	GH23+SusC+SusD+CE1+GH3+GH3	PUL
+MAG48	Bacteroidota	UBA3663	PUL41	GH10+SusD	PUL
+MAG48	Bacteroidota	UBA3663	PUL42	SusD+GH57+GT4+GH133	PUL
+MAG48	Bacteroidota	UBA3663	PUL43	GH77+GH13+GH13+GH97+SusC+SusD	PUL
+MAG48	Bacteroidota	UBA3663	PUL44	SusC+SusD+GH3+CE1+CE1	PUL
+MAG48	Bacteroidota	UBA3663	PUL45	GH31+SusD	PUL
+MAG48	Bacteroidota	UBA3663	PUL46	SusD+SusC+GH28	PUL
+MAG48	Bacteroidota	UBA3663	PUL47	GH32+SusD+SusC	PUL
+MAG48	Bacteroidota	UBA3663	PUL48	GH2+SusC+SusD	PUL
+MAG49	Bacteroidota	UBA4293	PUL49	SusC+SusD+GH28+GH146+GH88+GH43_10	PUL
+MAG49	Bacteroidota	UBA4293	PUL50	GH2+GH39+SusD+SusC	PUL
+MAG50	Bacteroidota	UBA4293	PUL51	SusD+SusC+GH78	PUL
+MAG51	Bacteroidota	UBA4372	PUL52	GH32+GH53+SusC+SusD+GH33+GH29+GH92	PUL
+MAG51	Bacteroidota	UBA4372	PUL53	SusD+SusC+GH13+GH97+GH77+SusC+SusD+SusE+GH13+GH13+GH53	PUL
+MAG51	Bacteroidota	UBA4372	PUL54	SusD+SusC+PL1+CE12-CE8+GH43_10+GH28-GH105	PUL
+MAG51	Bacteroidota	UBA4372	PUL55	SusC+SusD+GH85	PUL
+MAG51	Bacteroidota	UBA4372	PUL56	SusD+SusC+GH16_3	PUL
+MAG52	Bacteroidota	Bacteroidaceae	PUL57	GH29+GH16_3+SusC+SusD+GH3+SusC+SusD	PUL
+MAG52	Bacteroidota	Bacteroidaceae	PUL58	SusD+SusC+GH130	PUL
+MAG52	Bacteroidota	Bacteroidaceae	PUL59	GH13+GH13_14+GH97+GH77+SusC+SusD+SusE+GH13+GH53	PUL
+MAG52	Bacteroidota	Bacteroidaceae	PUL60	GH32+SusD+SusC+GH32	PUL
+MAG52	Bacteroidota	Bacteroidaceae	PUL61	GH85+SusC+SusD+GH85	PUL
+MAG52	Bacteroidota	Bacteroidaceae	PUL62	GH32+SusD+SusC	PUL
+MAG52	Bacteroidota	Bacteroidaceae	PUL63	SusC+SusD+CE1+GH3+GH3	PUL
+MAG53	Bacteroidota	UBA4372	PUL64	SusC+SusD+GH5_4+GH94+GH31	PUL
+MAG53	Bacteroidota	UBA4372	PUL65	GH2+GH2+SusD+SusC+SusD	PUL
+MAG53	Bacteroidota	UBA4372	PUL66	GH13+SusE+SusD+SusC	PUL
+MAG53	Bacteroidota	UBA4372	PUL67	GH89+GH92+SusD+SusC	PUL
+MAG54	Bacteroidota	UBA4372	PUL68	GH32+GH32+SusD+SusC+CE1	PUL
+MAG54	Bacteroidota	UBA4372	PUL69	GH16_3+SusC+SusD+SusD	PUL
+MAG54	Bacteroidota	UBA4372	PUL70	CE7+GH130+GH26+SusD+SusC	PUL
+MAG55	Bacteroidota	Bacteroidaceae	PUL71	GH28+SusC+SusD	PUL
+MAG55	Bacteroidota	Bacteroidaceae	PUL72	GH3+GH94+SusC+SusD+GH5_4+GH5_4	PUL
+MAG55	Bacteroidota	Bacteroidaceae	PUL73	GH85+SusD+SusC	PUL
+MAG55	Bacteroidota	Bacteroidaceae	PUL74	SusD+SusC+GH32+SusD+SusC+GH32	PUL
+MAG55	Bacteroidota	Bacteroidaceae	PUL75	GH13+GH97+GH77+SusC+SusC+SusD	PUL
+MAG55	Bacteroidota	Bacteroidaceae	PUL76	SusC+SusD+GH3+GH3	PUL
+MAG56	Bacteroidota	Prevotella	PUL77	GH2+SusD+SusC	PUL
+MAG56	Bacteroidota	Prevotella	PUL78	SusC+SusD+GH95	PUL
+MAG57	Bacteroidota	Bacteroidaceae	PUL79	GH10+GH43_1+GH2+CE12+SusD+SusC+SusD+SusC	PUL
+MAG57	Bacteroidota	Bacteroidaceae	PUL80	GH51+SusC+SusD	PUL
+MAG57	Bacteroidota	Bacteroidaceae	PUL81	SusD+SusC+PL1+GH105+PL26+GH145-PL11	PUL
+MAG57	Bacteroidota	Bacteroidaceae	PUL82	GH29+GH43+SusD+SusC	PUL
+MAG57	Bacteroidota	Bacteroidaceae	PUL83	GH94+SusC+SusD	PUL
+MAG57	Bacteroidota	Bacteroidaceae	PUL84	SusC+SusD+SusC+SusD+GH98-CBM35+CE1+GH115+SusC+SusD	PUL
+MAG57	Bacteroidota	Bacteroidaceae	PUL85	CE8-PL1+SusD+SusC+SusC+GH3+SusC+SusD+SusD	PUL
+MAG57	Bacteroidota	Bacteroidaceae	PUL86	SusD+SusC+GH89+GH92+GH28-GH35-CBM32	PUL
+MAG59	Bacteroidota	Bacteroidaceae	PUL87	SusD+SusC+GH127+GH97+GH43_34-CBM32+GH127	PUL
+MAG59	Bacteroidota	Bacteroidaceae	PUL88	SusC+SusD+SusD+GH10	PUL
+MAG59	Bacteroidota	Bacteroidaceae	PUL89	SusC+SusD+CBM35+GH146+GH115	PUL
+MAG60	Bacteroidota	F0040	PUL90	SusC+SusD+GH16_3+GH3	PUL
+MAG60	Bacteroidota	F0040	PUL91	CE11+SusD+SusC	PUL
+MAG60	Bacteroidota	F0040	PUL92	GH13+SusD+SusC+GH97	PUL
+MAG60	Bacteroidota	F0040	PUL93	SusC+SusD+GH85	PUL
+MAG60	Bacteroidota	F0040	PUL94	SusC+SusD+GH32+GH32	PUL
+MAG61	Bacteroidota	Bacteroides heparinolyticus	PUL95	SusC+SusD+GH2+GH63	PUL
+MAG61	Bacteroidota	Bacteroides heparinolyticus	PUL96	GH2+SusC+SusD	PUL
+MAG61	Bacteroidota	Bacteroides heparinolyticus	PUL97	GH125+GH63+GH92+SusD+SusC	PUL
+MAG61	Bacteroidota	Bacteroides heparinolyticus	PUL98	PL15+SusD+SusC+PL12+GH88+SusD+SusC	PUL
+MAG61	Bacteroidota	Bacteroides heparinolyticus	PUL99	GH20+SusD+SusC	PUL
+MAG61	Bacteroidota	Bacteroides heparinolyticus	PUL100	GH105+CE8+CE12-CE8+CE7+GH109+SusD+SusC	PUL
+MAG61	Bacteroidota	Bacteroides heparinolyticus	PUL101	SusC+SusD+GH20+GH2	PUL
+MAG61	Bacteroidota	Bacteroides heparinolyticus	PUL102	GH51+GH127+GH2+SusC+SusD	PUL
+MAG61	Bacteroidota	Bacteroides heparinolyticus	PUL103	SusC+SusD+GH18	PUL
+MAG61	Bacteroidota	Bacteroides heparinolyticus	PUL104	GH123+SusD+SusC	PUL
+MAG61	Bacteroidota	Bacteroides heparinolyticus	PUL105	GH29+SusD+SusC	PUL
+MAG61	Bacteroidota	Bacteroides heparinolyticus	PUL106	SusC+SusD+PL8	PUL
+MAG61	Bacteroidota	Bacteroides heparinolyticus	PUL107	GH29+SusD+SusC	PUL
+MAG61	Bacteroidota	Bacteroides heparinolyticus	PUL108	GH33+SusD+SusC+GH33	PUL
+MAG61	Bacteroidota	Bacteroides heparinolyticus	PUL109	GH20+SusD+SusC+SusC	PUL
+MAG61	Bacteroidota	Bacteroides heparinolyticus	PUL110	GH110+SusD+SusC	PUL
+MAG61	Bacteroidota	Bacteroides heparinolyticus	PUL111	GH43_2-CBM6-GH8+GH3+GH115+GH10+GH5_21+GH10-CBM4+SusD+SusD+SusC+GH43_12	PUL
+MAG61	Bacteroidota	Bacteroides heparinolyticus	PUL112	SusC+SusD+SusC+SusD+GH43_4+GH51	PUL
+MAG61	Bacteroidota	Bacteroides heparinolyticus	PUL113	SusC+SusD+GH18	PUL
+MAG61	Bacteroidota	Bacteroides heparinolyticus	PUL114	GH28+GH95+SusC+SusD+SusC+SusD	PUL
+MAG61	Bacteroidota	Bacteroides heparinolyticus	PUL115	SusC+SusD+PL29+PL8	PUL
+MAG61	Bacteroidota	Bacteroides heparinolyticus	PUL116	CBM48-CE1+GH43_10+SusC+SusD+GH67+GH43_1	PUL
+MAG61	Bacteroidota	Bacteroides heparinolyticus	PUL117	GH95+SusD+SusC+GH31	PUL
+MAG61	Bacteroidota	Bacteroides heparinolyticus	PUL118	GH94+GH2+CE7+GH5_7+SusC+SusD	PUL
+MAG61	Bacteroidota	Bacteroides heparinolyticus	PUL119	GH29+CBM9+GH3+GH3+CE1+SusD+SusC	PUL
+MAG61	Bacteroidota	Bacteroides heparinolyticus	PUL120	GH43_31+GH43_31+SusD+SusC+GH2	PUL
+MAG61	Bacteroidota	Bacteroides heparinolyticus	PUL121	GH53+SusC+SusD+SusE	PUL
+MAG61	Bacteroidota	Bacteroides heparinolyticus	PUL122	GH32+GH32+GH32+SusD+SusC	PUL
+MAG61	Bacteroidota	Bacteroides heparinolyticus	PUL123	GH3+GH16_3+SusD+SusC	PUL
+MAG62	Bacteroidota	C941	PUL124	SusD+SusC+GH3+SusD+SusC+GH16_3	PUL
+MAG62	Bacteroidota	C941	PUL125	GH3+GH30_2+GH30_2+GH92+SusD+SusC+GH36+GH2-GH92+GH43_24+GH2	PUL
+MAG62	Bacteroidota	C941	PUL126	GH13+GH13+SusD+SusC	PUL
+MAG62	Bacteroidota	C941	PUL127	SusC+SusD+CE1+GH3+GH3	PUL
+MAG62	Bacteroidota	C941	PUL128	SusC+SusD+SusE+GH66+GH66+GH97	PUL
+MAG62	Bacteroidota	C941	PUL129	GH32+SusD+SusC	PUL
+MAG62	Bacteroidota	C941	PUL130	GH97+GH66+SusE+SusD+SusC	PUL
+MAG63	Bacteroidota	Muribaculaceae	PUL131	SusC+SusD+GT4+GH133	PUL
+MAG63	Bacteroidota	Muribaculaceae	PUL132	GH32+SusC+SusD	PUL
+MAG63	Bacteroidota	Muribaculaceae	PUL133	SusD+SusC+GH13_8	PUL
+MAG63	Bacteroidota	Muribaculaceae	PUL134	GH16_3+SusD+GH3	PUL
+MAG63	Bacteroidota	Muribaculaceae	PUL135	SusD+GH3	PUL
+MAG64	Bacteroidota	CAG-1031	PUL136	GH30_3+GH30_3+SusD+SusC	PUL
+MAG64	Bacteroidota	CAG-1031	PUL137	GH16_3+SusD	PUL
+MAG65	Bacteroidota	CAG-1031	PUL138	SusC+SusD+GH16_3+GH128	PUL
+MAG65	Bacteroidota	CAG-1031	PUL139	SusC+SusD+GH27	PUL
+MAG65	Bacteroidota	CAG-1031	PUL140	GH32+SusC+SusD+GH32	PUL
+MAG65	Bacteroidota	CAG-1031	PUL141	GH53+SusE+SusD+SusC+GH53	PUL
+MAG65	Bacteroidota	CAG-1031	PUL142	GH16_3+SusC+SusD+GH3	PUL
+MAG65	Bacteroidota	CAG-1031	PUL143	SusC+SusD+GH26+GH130+CE7	PUL
+MAG40	Bacteroidota	CAG-831	CC1	GH43_35+GH3	CC
+MAG40	Bacteroidota	CAG-831	CC2	GH97+GH77	CC
+MAG40	Bacteroidota	CAG-831	CC3	GH10+GH43_1+GH67	CC
+MAG40	Bacteroidota	CAG-831	CC4	GH130+GH27-CE7+GH5_4	CC
+MAG40	Bacteroidota	CAG-831	CC5	GH51+GH43_2+GH3+CE6+GH95+GH43_7-CBM13	CC
+MAG40	Bacteroidota	CAG-831	CC6	GT3-GT35+GT3+GH57+GT4+GH133+GH13_8	CC
+MAG40	Bacteroidota	CAG-831	CC7	GH29-CBM32+GH31	CC
+MAG40	Bacteroidota	CAG-831	CC8	GH26+GH5_7-GH26	CC
+MAG40	Bacteroidota	CAG-831	CC9	GH43_35+GH43_29	CC
+MAG40	Bacteroidota	CAG-831	CC10	CBM48-CE1+GH3+GH95+GH97	CC
+MAG42	Bacteroidota	UBA932	CC11	GH28+GH28	CC
+MAG42	Bacteroidota	UBA932	CC12	GH27-CBM35+GH27-CBM35	CC
+MAG42	Bacteroidota	UBA932	CC13	GH3+GH28	CC
+MAG42	Bacteroidota	UBA932	CC14	GH77+GH77	CC
+MAG42	Bacteroidota	UBA932	CC15	GH28+GH28	CC
+MAG43	Bacteroidota	UBA932	CC16	CE12-CE8+GH105+PL1	CC
+MAG43	Bacteroidota	UBA932	CC17	GH53+GH77	CC
+MAG43	Bacteroidota	UBA932	CC18	GH5_4+GH130	CC
+MAG43	Bacteroidota	UBA932	CC19	GH13+GH13+GH13+GH13_36	CC
+MAG44	Bacteroidota	UBA932	CC20	GH92+GH29	CC
+MAG44	Bacteroidota	UBA932	CC21	GH92+GH92	CC
+MAG44	Bacteroidota	UBA932	CC22	GH43_10+GH89+GH120	CC
+MAG44	Bacteroidota	UBA932	CC23	SusC+PL1+GH105+CE8+GH28	CC
+MAG45	Bacteroidota	RC9	CC24	GH28+GH97	CC
+MAG45	Bacteroidota	RC9	CC25	GH43+GH97+GH95	CC
+MAG45	Bacteroidota	RC9	CC26	GH92+GH92	CC
+MAG45	Bacteroidota	RC9	CC27	GH57+GT4+GH133+GH13_8	CC
+MAG45	Bacteroidota	RC9	CC28	GH105+PL1+SusC	CC
+MAG45	Bacteroidota	RC9	CC29	GH43_26+GH2+GH2	CC
+MAG45	Bacteroidota	RC9	CC30	GH146+PL40	CC
+MAG46	Bacteroidota	UBA932	CC31	GH3+GH3	CC
+MAG46	Bacteroidota	UBA932	CC32	GH77+GH73	CC
+MAG46	Bacteroidota	UBA932	CC33	GH2+GH31	CC
+MAG46	Bacteroidota	UBA932	CC34	GH13_8+GH133+GT4+GH57	CC
+MAG47	Bacteroidota	Marinilabiliaceae	CC35	CE2+GH26+GH130	CC
+MAG47	Bacteroidota	Marinilabiliaceae	CC36	GH10+GH43_1+GH67	CC
+MAG47	Bacteroidota	Marinilabiliaceae	CC37	GH51+GH51	CC
+MAG47	Bacteroidota	Marinilabiliaceae	CC38	GH43_2-CBM6+GH3+CBM48-CE1	CC
+MAG47	Bacteroidota	Marinilabiliaceae	CC39	GH95+GH2	CC
+MAG47	Bacteroidota	Marinilabiliaceae	CC40	CE6+GH43_7-CBM13+GH97+GH43_16-CBM6+GH51	CC
+MAG47	Bacteroidota	Marinilabiliaceae	CC41	GH3+GH43_35+GH97	CC
+MAG48	Bacteroidota	UBA3663	CC42	GH43_2-CBM6+GH35	CC
+MAG48	Bacteroidota	UBA3663	CC43	GH29+GH2	CC
+MAG48	Bacteroidota	UBA3663	CC44	GH20+GH13_38	CC
+MAG48	Bacteroidota	UBA3663	CC45	GH146+GH33	CC
+MAG48	Bacteroidota	UBA3663	CC46	CBM9+GH29+GH92	CC
+MAG48	Bacteroidota	UBA3663	CC47	SusC+GH51+GH51	CC
+MAG48	Bacteroidota	UBA3663	CC48	GH146+GH146	CC
+MAG49	Bacteroidota	UBA4293	CC49	GH88+GH28+GH88	CC
+MAG49	Bacteroidota	UBA4293	CC50	GH94+GH55	CC
+MAG49	Bacteroidota	UBA4293	CC51	GH109+GH109	CC
+MAG50	Bacteroidota	UBA4293	CC52	GH13+GH13_14	CC
+MAG50	Bacteroidota	UBA4293	CC53	GH25+GH73-CBM50-CBM50	CC
+MAG50	Bacteroidota	UBA4293	CC54	GH92+GH92	CC
+MAG50	Bacteroidota	UBA4293	CC55	GH158+GH3	CC
+MAG50	Bacteroidota	UBA4293	CC56	GH2+GH130	CC
+MAG50	Bacteroidota	UBA4293	CC57	GH29+GH92	CC
+MAG51	Bacteroidota	UBA4372	CC58	GH25+GH33+GH33	CC
+MAG51	Bacteroidota	UBA4372	CC59	GH20+GH20+GH33	CC
+MAG51	Bacteroidota	UBA4372	CC60	GH92+GH92	CC
+MAG51	Bacteroidota	UBA4372	CC61	GH26+GH26	CC
+MAG52	Bacteroidota	Bacteroidaceae	CC62	GH25+GH33+GH33	CC
+MAG52	Bacteroidota	Bacteroidaceae	CC63	GH20+GH20+GH20	CC
+MAG52	Bacteroidota	Bacteroidaceae	CC64	GH130+GH26+GH26+GH26	CC
+MAG52	Bacteroidota	Bacteroidaceae	CC65	CE7+CE7+GH53+GH92+GH92	CC
+MAG52	Bacteroidota	Bacteroidaceae	CC66	GH84+CE4+GH84	CC
+MAG52	Bacteroidota	Bacteroidaceae	CC67	GH29+GH16	CC
+MAG53	Bacteroidota	UBA4372	CC68	GH51+GH43_19	CC
+MAG53	Bacteroidota	UBA4372	CC69	PL26+GH53+CBM20-CBM20-GH77+GH13_14	CC
+MAG53	Bacteroidota	UBA4372	CC70	GH43_35+GH43_24	CC
+MAG53	Bacteroidota	UBA4372	CC71	GH115+GH97+GH66	CC
+MAG53	Bacteroidota	UBA4372	CC72	PL11+GH20	CC
+MAG53	Bacteroidota	UBA4372	CC73	GH43_1+GH67+GH43_29-CBM6+SusC	CC
+MAG53	Bacteroidota	UBA4372	CC74	GH128+GH43_19	CC
+MAG53	Bacteroidota	UBA4372	CC75	GH43_7-CBM13+GH43_2-CBM6-GH8+GH43_29-CBM48-CE1	CC
+MAG53	Bacteroidota	UBA4372	CC76	GH146+GH27-CBM51	CC
+MAG53	Bacteroidota	UBA4372	CC77	GH10+GH27-CBM35+GH29-GH97	CC
+MAG53	Bacteroidota	UBA4372	CC78	GH115+GH98+GH98-CBM35	CC
+MAG53	Bacteroidota	UBA4372	CC79	GH43_34-CBM32+GH43_10+GH31	CC
+MAG53	Bacteroidota	UBA4372	CC80	GH2+GH35	CC
+MAG53	Bacteroidota	UBA4372	CC81	GH73-CBM50-CBM50+GH43_29-CBM6+GH43_29	CC
+MAG53	Bacteroidota	UBA4372	CC82	GH43_5+GH2	CC
+MAG53	Bacteroidota	UBA4372	CC83	GH13+GH13_14	CC
+MAG53	Bacteroidota	UBA4372	CC84	GH20+GH20	CC
+MAG54	Bacteroidota	UBA4372	CC85	GH125+GH92	CC
+MAG54	Bacteroidota	UBA4372	CC86	GH78+GH13_8+GT51	CC
+MAG54	Bacteroidota	UBA4372	CC87	GH20+GH43_31	CC
+MAG54	Bacteroidota	UBA4372	CC88	GH92+GH92	CC
+MAG55	Bacteroidota	Bacteroidaceae	CC89	GH29+GH16	CC
+MAG55	Bacteroidota	Bacteroidaceae	CC90	GH29+GH92+GH3+GH92+GH92	CC
+MAG55	Bacteroidota	Bacteroidaceae	CC91	GH31+GH31	CC
+MAG55	Bacteroidota	Bacteroidaceae	CC92	GH84+GH84	CC
+MAG56	Bacteroidota	Prevotella	CC93	GH13+GH13+GH13_14+GH97+CBM20-GH77	CC
+MAG56	Bacteroidota	Prevotella	CC94	GH5_4+GH130+CE7	CC
+MAG56	Bacteroidota	Prevotella	CC95	CE8+GH3+GH3	CC
+MAG56	Bacteroidota	Prevotella	CC96	GH138+GH10+GH43_1	CC
+MAG56	Bacteroidota	Prevotella	CC97	GH127+GH127+GT51	CC
+MAG56	Bacteroidota	Prevotella	CC98	GH2+GH2+GH154+GH43_19-GH43_34	CC
+MAG56	Bacteroidota	Prevotella	CC99	GH8+GH43_2-CBM6-GH8	CC
+MAG57	Bacteroidota	Bacteroidaceae	CC100	GH51+GH43_4	CC
+MAG57	Bacteroidota	Bacteroidaceae	CC101	GH32+GH138+GH78+GH2+GH141+GH127	CC
+MAG57	Bacteroidota	Bacteroidaceae	CC102	GH97+GH10+GH43_12	CC
+MAG57	Bacteroidota	Bacteroidaceae	CC103	PL11+GH43_19-GH43_34+CE12-CE12+GH115+GH2	CC
+MAG57	Bacteroidota	Bacteroidaceae	CC104	GH141+GH31+PL1	CC
+MAG57	Bacteroidota	Bacteroidaceae	CC105	GT2+GH10+GH95+GH31	CC
+MAG57	Bacteroidota	Bacteroidaceae	CC106	GH13+GH13_14+GH97+CBM20-GH77	CC
+MAG57	Bacteroidota	Bacteroidaceae	CC107	PL1+GH28-GH105	CC
+MAG57	Bacteroidota	Bacteroidaceae	CC108	GH31+GH8	CC
+MAG57	Bacteroidota	Bacteroidaceae	CC109	GH31+GH2+GH29	CC
+MAG57	Bacteroidota	Bacteroidaceae	CC110	GH5_4+GH26+CE7+GH130+GH5_4	CC
+MAG57	Bacteroidota	Bacteroidaceae	CC111	GH2+GH36+GH3	CC
+MAG57	Bacteroidota	Bacteroidaceae	CC112	GH2+GH2	CC
+MAG58	Bacteroidota	Bacteroidaceae	CC113	GH13_14+GH13	CC
+MAG58	Bacteroidota	Bacteroidaceae	CC114	GH43_19-GH43_34+GH154	CC
+MAG58	Bacteroidota	Bacteroidaceae	CC115	GH5_4+GH130+GH26	CC
+MAG58	Bacteroidota	Bacteroidaceae	CC116	GH23+GH23	CC
+MAG59	Bacteroidota	Bacteroidaceae	CC117	GH77+GH97+GH13_14+GH13	CC
+MAG59	Bacteroidota	Bacteroidaceae	CC118	GH106-GH30_5+GH28-GH105+GH2+PL11	CC
+MAG59	Bacteroidota	Bacteroidaceae	CC119	GH5_4+GH31+GH2	CC
+MAG59	Bacteroidota	Bacteroidaceae	CC120	GH10+GH43_1	CC
+MAG59	Bacteroidota	Bacteroidaceae	CC121	GH2+GH3+GH3+GH43_2-GH8+CE15	CC
+MAG59	Bacteroidota	Bacteroidaceae	CC122	GH5_4+GH130+GH26	CC
+MAG59	Bacteroidota	Bacteroidaceae	CC123	GH23+GH23	CC
+MAG59	Bacteroidota	Bacteroidaceae	CC124	GH43_7-CBM13+GH31	CC
+MAG59	Bacteroidota	Bacteroidaceae	CC125	GH154+GH105	CC
+MAG59	Bacteroidota	Bacteroidaceae	CC126	GH133+GH57	CC
+MAG60	Bacteroidota	F0040	CC127	GH92+GH92	CC
+MAG60	Bacteroidota	F0040	CC128	GH92+GH92	CC
+MAG60	Bacteroidota	F0040	CC129	GH20+GH20	CC
+MAG61	Bacteroidota	Bacteroides heparinolyticus	CC130	GH20+GH2	CC
+MAG61	Bacteroidota	Bacteroides heparinolyticus	CC131	PL37+PL13	CC
+MAG61	Bacteroidota	Bacteroides heparinolyticus	CC132	GH92+GH92+GH20+GH92+GH130+GH92	CC
+MAG61	Bacteroidota	Bacteroides heparinolyticus	CC133	GH20+GH84+GH84	CC
+MAG61	Bacteroidota	Bacteroides heparinolyticus	CC134	GH5_46+GH3	CC
+MAG61	Bacteroidota	Bacteroides heparinolyticus	CC135	GH130+GH26	CC
+MAG61	Bacteroidota	Bacteroides heparinolyticus	CC136	GH97+GH105+GH145+GH154	CC
+MAG61	Bacteroidota	Bacteroides heparinolyticus	CC137	GH3+GH3	CC
+MAG61	Bacteroidota	Bacteroides heparinolyticus	CC138	GH51+GH43_29	CC
+MAG62	Bacteroidota	C941	CC139	GH18+GH9	CC
+MAG62	Bacteroidota	C941	CC140	GH125+GH125	CC
+MAG62	Bacteroidota	C941	CC141	GH25+GH25	CC
+MAG63	Bacteroidota	Muribaculaceae	CC142	GH92+GH92+GH92+CBM48-GH13_14	CC
+MAG63	Bacteroidota	Muribaculaceae	CC143	GH127+GH127	CC
+MAG63	Bacteroidota	Muribaculaceae	CC144	GH20+GH20	CC
+MAG63	Bacteroidota	Muribaculaceae	CC145	GH29+GH29+GH3	CC
+MAG64	Bacteroidota	CAG-1031	CC146	GH13+GH3	CC
+MAG64	Bacteroidota	CAG-1031	CC147	GH3+GH13	CC
+MAG65	Bacteroidota	CAG-1031	CC148	GH3+GH53	CC
+MAG65	Bacteroidota	CAG-1031	CC149	GH20+GH20+GH123	CC
+MAG67	Bacteroidota	F082	CC150	GH13_38+GH13_38+GH29	CC
