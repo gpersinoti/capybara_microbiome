@@ -1,0 +1,39 @@
+Starch	C00369	Plant carbohydrates degradation
+Dextrin	C00721	Plant carbohydrates degradation
+Pectate	C00470	Plant carbohydrates degradation
+Galacturonic acid	C00333	Plant carbohydrates degradation
+Xylan	C02352	Plant carbohydrates degradation
+Xylose	C00181	Plant carbohydrates degradation
+Arabinan	C02474	Plant carbohydrates degradation
+Arabinose	C00259	Plant carbohydrates degradation
+Galactan	C05796	Plant carbohydrates degradation
+Galactose	C00124	Plant carbohydrates degradation
+Fructose	C00095	Plant carbohydrates degradation
+Mannan	K19355	Plant carbohydrates degradation
+Mannan2	K01218	Plant carbohydrates degradation
+Mannose	C00159	Plant carbohydrates degradation
+Cellulose	C00760	Plant carbohydrates degradation
+Cellodextrin	C01898	Plant carbohydrates degradation
+Cellobiose	C00185	Plant carbohydrates degradation
+Glucose	C00031	Plant carbohydrates degradation
+PEP	C00074	Fermentation
+Pyruvate	C00022	Fermentation
+lactate	C00186	Fermentation
+Lactoyl-CoA	C00827	Fermentation
+Oxaloacetate	C00036	Fermentation
+Succinate	C00042	Fermentation
+Succinyl-CoA	C00091	Fermentation
+lactaldehyde	C00424	Fermentation
+Propane-1-2-diol	C00583	Fermentation
+Propanoyl-CoA	C00100 	Fermentation
+Propionate	C00163	Fermentation
+Acetyl-CoA	C00024	Fermentation
+Acetate	C00033	Fermentation
+Acetoacetyl-CoA	C00332	Fermentation
+Butyryl-CoA	C00136	Fermentation
+Butyryl-P	C02527	Fermentation
+Butyrate	C00246	Fermentation
+Acetaldehyde	C00084	Fermentation
+Formate	C00058	Fermentation
+Hydrogen sulphide	C00283	Fermentation
+Methane	C01438	Fermentation

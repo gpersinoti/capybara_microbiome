@@ -1,0 +1,159 @@
+BinId	Phylum
+
+Capybara_CONCOCT.68	Actinobacteriota
+
+Recto_2.CONCOCT.81	Firmicutes
+
+Cecum.25	Firmicutes
+
+MaxBin.092	Firmicutes
+
+MaxBin.103	Firmicutes
+
+MaxBin.100	Firmicutes
+
+Capybara_CONCOCT.154	Firmicutes
+
+MaxBin.063	Firmicutes
+
+Capybara_CONCOCT.176	Firmicutes
+
+Cecum.128	Firmicutes
+
+MaxBin.018	Firmicutes
+
+Recto_3.CONCOCT.35	Firmicutes
+
+Capybara_CONCOCT.105	Firmicutes
+
+Cecum.63	Firmicutes
+
+Cecum.69	Firmicutes
+
+Capybara_CONCOCT.33	Firmicutes
+
+Capybara_CONCOCT.150	Firmicutes
+
+MaxBin.022	Firmicutes
+
+Capybara.MaxBin.051	Firmicutes
+
+Capybara.MaxBin.112	Firmicutes
+
+Recto_3.CONCOCT.4	Firmicutes
+
+Recto_3.CONCOCT.34	Firmicutes
+
+Recto_4.CONCOCT.48	Firmicutes
+
+Cecum_3.CONCOCT.22	Firmicutes
+
+Capybara_CONCOCT.223	Firmicutes
+
+Cecum_3.CONCOCT.48	Firmicutes
+
+Capybara_CONCOCT.100	Firmicutes
+
+Cecum_2.017	Firmicutes
+
+Recto_4.CONCOCT.6	Firmicutes
+
+Recto_3.CONCOCT.40	Firmicutes
+
+MaxBin.099	Synergistota
+
+Capybara_CONCOCT.107	Fusobacteriota
+
+Cecum.44	Fusobacteriota
+
+Recto.95	Firmicutes
+
+Cecum.142	Bacteroidota
+
+Capybara.MaxBin.046	Bacteroidota
+
+Capybara_CONCOCT.112	Bacteroidota
+
+Cecum.31	Bacteroidota
+
+Recto_4.019	Bacteroidota
+
+Capybara_CONCOCT.59	Bacteroidota
+
+Capybara_CONCOCT.186	Bacteroidota
+
+Capybara_CONCOCT.41	Bacteroidota
+
+Recto_2.017	Bacteroidota
+
+MaxBin.044	Bacteroidota
+
+Recto.18	Firmicutes
+
+Cecum.90	Bacteroidota
+
+Cecum_2.009	Bacteroidota
+
+Cecum_3.CONCOCT.10	Bacteroidota
+
+Capybara_CONCOCT.120	Bacteroidota
+
+Capybara_CONCOCT.121	Bacteroidota
+
+Cecum_2.006	Bacteroidota
+
+Recto_2.CONCOCT.48	Bacteroidota
+
+Capybara_CONCOCT.14	Bacteroidota
+
+Cecum_2.CONCOCT.82	Bacteroidota
+
+Capybara_CONCOCT.148	Bacteroidota
+
+Recto.127	Firmicutes
+
+Capybara_CONCOCT.231	Bacteroidota
+
+Cecum_3.CONCOCT.14	Bacteroidota
+
+Recto_4.CONCOCT.52	Bacteroidota
+
+Recto_2.CONCOCT.50	Bacteroidota
+
+Recto_2.008	Bacteroidota
+
+Cecum_3.001	Bacteroidota
+
+Capybara_CONCOCT.188	Bacteroidota
+
+Cecum_2.CONCOCT.67	Bacteroidota
+
+Cecum_4.CONCOCT.18	Bacteroidota
+
+Cecum_2.003	Bacteroidota
+
+Capybara.MaxBin.034	Firmicutes
+
+MaxBin.025	Fibrobacterota
+
+MaxBin.057	Fibrobacterota
+
+Recto_2.031	Fibrobacterota
+
+MaxBin.075	Planctomycetota
+
+Cecum_4.CONCOCT.64	Spirochaetota
+
+Capybara_CONCOCT.177	Spirochaetota
+
+Capybara_CONCOCT.124	Spirochaetota
+
+Capybara_CONCOCT.0	Proteobacteria
+
+Recto.35	Proteobacteria
+
+Recto_4.CONCOCT.0	Euryarchaeota
+
+Recto_2.CONCOCT.79	Firmicutes
+
+Capybara_CONCOCT.43	Firmicutes
