@@ -10,6 +10,8 @@ library("data.table")
 
 setwd("/data/Projects/Capibara/github/Figure2/")
 
+data2 <- read.delim(file="Capybara_modules.txt", header = T)
+head(data2)
 
 cazyFamiliesInterest <- read.delim(file="CAZyFamiliesCapybara.csv")
 head(cazyFamiliesInterest)
@@ -49,8 +51,11 @@ ord <- c("plant cell wall glycans", "sucrose", "starch & glycogen", "microbial g
          "others")
 dataCAZy$Activity <- factor(dataCAZy$Activity, levels = ord)
 
-head(dataCAZy)
 dataCAZy <- reshape::melt(dataCAZy)
+head(dataCAZy)
+x <-  ddply(dataCAZy, c("CAZy","omics","variable"), summarize, value=sum(value))
+head(x)
+x <- x[which(x$value>10),]
 
 p <- ggplot(dataCAZy[which(dataCAZy$CAZy %in% x$CAZy),], aes(x=CAZy, fill=variable))+
   geom_bar(aes(weight=value), position="dodge") + 
