@@ -93,7 +93,7 @@ dev.off()
 
 
 #Load Supplementary table 6 with PULs and CCs
-read.table("new_s6.tsv",header = T,sep = "\t") -> s6_table
+read.table("TableS4.tsv",header = T,sep = "\t") -> s6_table
 s6_table[s6_table$category =="PUL",1] -> Pul_count
 s6_table[s6_table$category =="CC",1] -> CC_count
 
